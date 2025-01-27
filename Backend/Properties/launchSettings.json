@@ -1,0 +1,14 @@
+﻿{
+    "profiles": {
+        "Backend": {
+            "commandName": "Project",
+            "dotnetRunMessages": true,
+            "launchBrowser": true,
+            "launchUrl": "",
+            "applicationUrl": "https://localhost:7017", // Single port
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}
